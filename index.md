@@ -4,6 +4,30 @@ You can use the [editor on GitHub](https://github.com/FadiZahhar/serverless-func
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+## 1. Intro
+
+### 1 Introduction
+<iframe src="https://player.vimeo.com/video/656494444" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Netlify and Other Services
+<iframe src="https://player.vimeo.com/video/656494709" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Front-End
+<iframe src="https://player.vimeo.com/video/656494907" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Requirements
+<iframe src="https://player.vimeo.com/video/656495008" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Text Editor
+<iframe src="https://player.vimeo.com/video/656495073" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Video Blur Fix
+<iframe src="https://player.vimeo.com/video/656495206" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Course Review
+<iframe src="https://player.vimeo.com/video/656495510" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
